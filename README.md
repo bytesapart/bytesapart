@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <h3>
+  <h1>
   Welcome to Osama Iqbal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h3>
+  </h1>
 
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
