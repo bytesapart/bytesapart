@@ -15,3 +15,8 @@
   </h3>
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Python+and+C%2b%2b+Developer;6%2b+Years+of+Development+Experience;Always+Learning+new+things" />
+</p>
+
+
